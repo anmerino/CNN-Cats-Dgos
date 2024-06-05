@@ -1,1 +1,1 @@
-# CNN-Cats-Dgos
+# CNN-Cats-Dogs
